@@ -1,0 +1,44 @@
+.menu {
+    position: absolute;
+    top: 30px;
+    right: 30px;
+    list-style: none;
+    cursor: pointer;
+    z-index: 10;
+}
+.item {
+    font-size: 25px;
+    float: left;
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 5px;
+}
+.item:hover {
+    font-size: 30px;
+    background-color: cornflowerblue;
+}
+#lego_train_pic{
+    height: 700;
+    width: 1400;
+    margin-top: 100px;
+    
+}
+
+#home {
+    height: auto;
+    width: auto;
+    background: linear-gradient(#318d99, #993131);
+}
+#2016ct {
+    height: 200;
+    width:400;
+}
+#2021kv {
+    height: 200;
+    width:400;
+}
+#2021ljcb {
+    height: 200;
+    width:400;
+}
