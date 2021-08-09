@@ -30,15 +30,10 @@
     width: auto;
     background: linear-gradient(#318d99, #993131);
 }
-#2016ct {
-    height: 200;
-    width:400;
+.height {
+    height: 500;
+    width: 600
 }
-#2021kv {
-    height: 200;
-    width:400;
-}
-#2021ljcb {
-    height: 200;
-    width:400;
+body {
+    text-align: center;
 }
